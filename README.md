@@ -58,7 +58,7 @@ The idea of this start-up is implement a section related with Big data and Machi
     * GitHub - Used to remotely store project code.
 
 ## Testing
-I manually tested the website at the mean time I was working in it.
+I manually tested the website at the meantime I was working on it.
 Whenever the app crashed, debugger displayed an error message that made it clear what was causing the error. 
 I was able to resolve issues by going back to the routes and templates and examining the relevant code.
 In the section contact me you can add all your details without any problem. 
