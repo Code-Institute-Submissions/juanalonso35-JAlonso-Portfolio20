@@ -2,7 +2,7 @@
 This project is the assessment of the Html/Css modules for the Full Stack Software Development degree at Code Institute.
 This is my first project. It is an idea that I have of setting up a web design company call: Web Design Alonso. 
 Web design Alonso has a number of services such as: Web development, Web Ideas, Grapich Design and Digital Marketing.
-It's a first project of my future company based in Ireland and Spain, in this stage I only talk about web design in the second project I will introduce a brief introduction about another part of the company (Bid data & Machine Learning).
+It's a first project for my future stat-up based in Ireland and Spain. In this stage I only talk about web design in the second project I will introduce a brief introduction about another part of the company (Big data & Machine Learning).
 
 # User Stories
 
