@@ -7,10 +7,9 @@ It's a first project for my future stat-up based in Ireland and Spain. In this s
 # User Stories
 "As a user, I want:"
 To view the site on my preferred device (mobile, tablet, desktop).
-To see what is the profile of the creator 
 To see what is the main activity of the bussiness web design Alonso, you can see in the section about us.
-To view what are the main services of the company, you can get an idea in which services we are specialized
-To ask for information about projects in the section (contact me)
+To view what are the main services of the company, you can get an idea in which services we are specialized.
+To ask for information about projects in the section (contact me).
 
 ## Design
 
