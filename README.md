@@ -46,7 +46,7 @@ In the section services would be great to implement some examples of our jobs, i
 to have an idea about what is our job.
 
 Customer reviews:
-Reviews and opinions of people who contract our sevice
+Reviews and opinions of people who contract our sevice before, it's help to new customer to believe in our company.
 
 Big Data:
 The idea of this start-up is implement a section related with Big data and Machine learning.
