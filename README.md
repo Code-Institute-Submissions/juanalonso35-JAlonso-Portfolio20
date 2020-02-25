@@ -1,7 +1,25 @@
-# Web Design Alonso
-
+# UX
+This project is the assessment of the Html/Css modules for the Full Stack Software Development degree at Code Institute.
 This is my first project. It is an idea that I have of setting up a web design company call: Web Design Alonso. 
 Web design Alonso has a number of services such as: Web development, Web Ideas, Grapich Design and Digital Marketing.
+It's a first project of my future company based in Ireland and Spain, in this stage I only talk about web design in the second project I will introduce a brief introduction about another part of the company (Bid data & Machine Learning).
+
+# User Stories
+
+"As a user, I want:"
+
+to view the site on my preferred device (mobile, tablet, desktop).
+to see what is the profile of the creator 
+to see what is the main activity of the bussiness web design Alonso, you can see in the section about us.
+to view what are the main services of the company, you can get an idea in which services we are specialized
+to ask for information about projects in the section (contact me)
+
+## Design
+
+This site was built using Bootstrap, as well as refactored designs I used in my previous milestones.
+
+
+
 
 ## Technologies Used
 
@@ -29,4 +47,4 @@ The files index.html and style.css are my own code.
 
 ### Acknowledgements
 
-- I received inspiration for this project from other projects which I did during the course, portfolios and researches of companies help me to develop my ideas.
+- I received inspiration for this project from other projects which I did during the course, portfolios and researches of companies help me to develop my ideas. I have an idea before started the course to create my own company, this project is like a introduction of what I will do in the future when I finish my idea.
