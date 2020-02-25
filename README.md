@@ -11,7 +11,7 @@ To see what is the main activity of the bussiness web design Alonso, you can see
 To view what are the main services of the company, you can get an idea in which services we are specialized.
 To ask for information about projects in the section (contact me).
 
-## Design
+# Design
 
 This site was built using Bootstrap, as well as refactored designs I used in my previous milestones.
 
@@ -37,7 +37,7 @@ I used Flaticon to get the gorilla icon. The image is in the folder logo as a (l
 # Typography
 I specified one font from Google Fonts in my CSS variables. Ubuntu is the main font, I chose only one so that the website content would be easily readable.
 
-## Features Left to implement
+# Features Left to implement
 Due to time constraints, there are some additional features I wasn't able to implement.
 
 Examples of project:
@@ -50,20 +50,20 @@ Reviews and opinions of people who contract our sevice before, it's help to new 
 Big Data:
 The idea of this start-up is implement a section related with Big data and Machine learning.
 
-## Technologies Used
+# Technologies Used
 
     * [JQuery](https://jquery.com) The project uses **JQuery** to simplify DOM manipulation.
     * HTML and CSS
     * Git Used for version control of project code.
     * GitHub - Used to remotely store project code.
 
-## Testing
+# Testing
 I manually tested the website at the meantime I was working on it.
 Whenever the app crashed, debugger displayed an error message that made it clear what was causing the error. 
 I was able to resolve issues by going back to the routes and templates and examining the relevant code.
 In the section contact me you can add all your details without any problem. 
 
-### Content
+# Content
 - Under the folders css and js are the libraries and resources that I used for developing this project. 
     * Style for the carousel: css/animate.css and css/animated-slider.css
     * Style for the icons in the services section: css/flaticon.css
@@ -79,10 +79,10 @@ In the section contact me you can add all your details without any problem.
 
 The files index.html and style.css are my own code.
 
-### Media
+# Media
 - The photo in the contact me was obtained on Upnsplash by Henrique Ferreira.
 - The others pictures are personal resource like the two in the banners.
 
-### Acknowledgements
+# Acknowledgements
 
 - I received inspiration for this project from other projects which I did during the course, portfolios and researches of companies help me to develop my ideas. I have an idea before started the course to create my own company (start-up tech company), this project is like a introduction of what I will do in the future when I finish my idea. Another idea for future projects is implement a section with Big data and machine learning.
